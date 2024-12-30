@@ -1,6 +1,5 @@
 # **A classic Snake game with fancy graphics.**
 
---------
 
 ## **Personnalisation**
 
