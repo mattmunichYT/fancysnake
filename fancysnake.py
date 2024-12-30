@@ -327,7 +327,7 @@ for i in range(0,20):
   offsetx=160-115//2
   offsety=i-61
   drawLogo(offsetx,offsety)
-  draw_string(centerString("Coded by matt"),0,i,'white',mainMenuBackgroundColor)
+  draw_string(centerString("Coded by mattmunich"),0,i,'white',mainMenuBackgroundColor)
   sleep(0.05)
   
 while menu==1:
