@@ -1,4 +1,4 @@
-# **A classic Snake game with fancy graphics.**
+# **A classic Snake game with fancy graphics for _Numworks_.**
 
 
 ## **Personnalisation**
