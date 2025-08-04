@@ -21,6 +21,6 @@
 
 ------
 
-© 2024 mattmunich. All rights reserved.
+© 2024-2025 mattmunich. All rights reserved.
 
 This Shortcut was created by mattmunich. Unauthorized copying, distribution, or replication of this Shortcut is prohibited without express written permission from the creator.
